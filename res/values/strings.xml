@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hex Island</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_cast">SelectCastActivity</string>
+    <string name="title_activity_join_game_activiy">JoinGameActiviy</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string-array name="card_names">
+        <item>Joker</item>
+        <item>Ace</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Jack</item>
+        <item>Queen</item>
+        <item>King</item>
+    </string-array>
+
+    <string name="title_activity_game_activity_h">GameActivityH</string>
+    <string name="title_activity_game_activity_guest">GameActivityGuest</string>
+    <string name="title_activity_game_activity_host">GameActivityHost</string>
+
+</resources>
